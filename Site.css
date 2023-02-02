@@ -1,0 +1,288 @@
+* {
+    display: inline-block;
+}
+body {
+    margin: 0;
+}
+.ball {
+    width: 25px;
+    height: 25px;
+    background: white;
+    margin-left: 30px;
+    border-radius: 100px;
+}
+.text3 {
+    display: block;
+    color: #1B435D;
+    overflow: hidden;
+}
+.image1 {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+
+
+
+
+
+.top ul li {
+    margin-right: 100px;
+}
+.top ul li:first-child {
+    margin: 5px;
+    margin-top: 0;
+    margin-right: 1200px;
+    padding: 0px 20px;
+    border-top: 5px solid #1B435D;
+    border-bottom: 5px solid #1B435D;
+    font-size: 20px;
+    display: inline-block;
+}
+.top{
+    margin-bottom: 50px;
+    display: inline-block;
+    width: 100%;
+    height: 50px;
+    text-align: right;
+}
+
+
+
+
+
+
+.img {
+    width: 100%;
+    height: 600px;
+    overflow: hidden;
+}
+.image {
+    width: 1400px;
+    height: 600px;
+    display: flex;
+    position: relative;
+}
+.text1 {
+    position: absolute;
+    text-align: center;
+    justify-content: center;
+    font-size: 50px;
+    top: 180px;
+    left: 620px;
+    color: white;
+}
+.dash {
+    position: absolute;
+    text-align: center;
+    justify-content: center;
+    font-size: 30px;
+    top: 260px;
+    left: 520px;
+    color: white;
+}
+.text2 {
+    position: absolute;
+    text-align: center;
+    justify-content: center;
+    top: 310px;
+    left: 595px;
+    color: white;
+}
+
+
+
+
+
+
+.main-block1 {
+    float: left;
+    margin: 10px;
+    width: 100%;
+    height: 500px;
+}
+
+
+
+.cube-services {
+    float: none;
+    margin-top: 100px;
+    margin-left: 100px;
+    width: 400px;
+    height: 300px;
+    background-color: coral;
+    color: white;
+}
+.cube-services p {
+    margin: 0;
+}
+.services {
+    padding: 20px;
+    font-size: 50px;
+    margin-bottom: 10px;
+}
+.text-services {
+    padding: 20px;
+    font-size: 20px;
+    margin-left: 10px;
+}
+
+
+
+
+
+
+.cube-name {
+    float: none;
+    margin-top: 50px;
+    margin-left: 100px;
+    width: 250px;
+    height: 200px;
+    color: white;
+}
+.audit{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 80px;
+    padding: 20px ;
+    color: white;
+    background-color: #1B435D;
+    text-align: center;
+
+}
+.audit a {
+    color: white;
+    text-decoration: none;
+}
+.front {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 110px;
+    padding: 20px ;
+    color: white;
+    background-color: #1B435D;
+    text-align: center;
+
+}
+.front a {
+    color: white;
+    text-decoration: none;
+}
+
+
+
+
+
+
+.main-block2 {
+    float: left;
+    margin: 10px;
+    width: 100%;
+    height: 500px;
+}
+
+
+
+.cube-purposes {
+    float: none;
+    margin-top: 50px;
+    margin-left: 100px;
+    width: 400px;
+    height: 300px;
+    background-color: coral;
+    color: white;
+}
+.cube-purposes p {
+    margin: 0;
+}
+.purposes {
+    padding: 20px;
+    font-size: 50px;
+    margin-bottom: 10px;
+}
+.text-purposes {
+    padding: 20px;
+    font-size: 20px;
+    margin-left: 10px;
+}
+.backend{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 100px;
+    padding: 20px ;
+    color: white;
+    background-color: #1B435D;
+    text-align: center;
+
+}
+.backend a {
+    color: white;
+    text-decoration: none;
+}
+.project {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 120px;
+    padding: 20px ;
+    color: white;
+    background-color: #1B435D;
+    text-align: center;
+
+}
+.project a {
+    color: white;
+    text-decoration: none;
+}
+
+
+
+
+
+
+.footer {
+    margin-bottom: 0;
+    width: 100%;
+    padding: 100px;
+    background-color: #1B435D;
+    color: white;
+    display: flex;
+}
+.footer div {
+    text-align: center;
+}
+.footer div p {
+    font-weight: 300px;
+    margin-bottom: 40px;
+}
+.line-1 a {
+    display: block;
+    text-decoration: none;
+    color: white;
+}
+.form input {
+    width: 400px;
+    height: 40px;
+    border-radius: 5px;
+    text-align: center;
+    margin-bottom: 40px;
+    border: none;
+}
+.form button {
+    border: 2px solid white;
+    border-radius: 100px;
+    background-color: #1B435D;
+    color: white;
+    padding: 10px 30px;
+}
+
+.line-1 {
+    margin-right: 250px;
+}
+.line-2 {
+    margin-right: 250px;
+}
